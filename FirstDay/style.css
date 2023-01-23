@@ -1,0 +1,23 @@
+.task {
+  height: 900px;
+  width: 900px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+#first {
+  justify-content: space-evenly;
+}
+
+#second {
+  background-color: rgb(139, 216, 255);
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin: 40px;
+}
